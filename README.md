@@ -1,4 +1,4 @@
-# Educational-Malware-Sample
+# Educational-Ransomware-Sample
 
 # Python Ransomware Project (Educational Purposes Only)
 
