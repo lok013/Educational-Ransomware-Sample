@@ -1,1 +1,1 @@
-hii this is the main file to encrypt
+I hope this project will help you in your understanding how ransomware works
